@@ -26,3 +26,8 @@ class Solution:
                 else:
                     high = mid - 1
         return -1
+    
+nums = list(map(int, input("Enter sorted array: ").split()))
+
+sol = Solution()
+print(sol.singleNonDuplicate(nums))    
