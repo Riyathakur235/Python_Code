@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
@@ -12,3 +14,17 @@ class Solution:
                 nums1[k] = nums2[j]
                 j -= 1
             k -= 1
+            
+nums1 = [1, 2, 3, 0, 0, 0]
+m = 3
+nums2 = [2, 5, 6]
+n = 3
+
+# Create object
+obj = Solution()
+
+# Call function
+obj.merge(nums1, m, nums2, n)
+
+# Print merged array
+print(nums1)            
