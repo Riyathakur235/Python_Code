@@ -24,7 +24,7 @@ for i in range(n):
     else:
         print("❌ Stock not found!")
 
-print("\n💰 Total Investment Value =", total_investment)
+print("\n Total Investment Value =", total_investment)
 save = input("Do you want to save result? (yes/no): ").lower()
 
 if save == "yes":
