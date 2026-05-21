@@ -20,3 +20,13 @@ class Solution:
                 i = k
         print(nums[ai:aj+1])
         return ans
+    
+nums = [-2,1,-3,4,-1,2,1,-5,4]
+
+# Create object
+obj = Solution()
+
+# Call function
+result = obj.maxSubArray(nums)
+
+print("Maximum Sum:", result)    
