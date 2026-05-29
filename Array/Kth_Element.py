@@ -25,3 +25,13 @@ class Solution:
                 return arr2[j]
             j += 1
         return -1
+    
+    
+arr1 = list(map(int, input("Enter first sorted array: ").split()))
+arr2 = list(map(int, input("Enter second sorted array: ").split()))
+
+k = int(input("Enter k: "))
+
+obj = Solution()
+
+print(obj.kthElement(arr1, arr2, len(arr1), len(arr2), k))    
