@@ -18,3 +18,12 @@ class Solution:
                     ind = mid
                 high = mid - 1
         return ind
+    
+# Input
+arr = [15, 18, 2, 3, 6, 12]
+
+obj = Solution()
+
+result = obj.findKRotation(arr, len(arr))
+
+print("Rotation Count:", result)    
