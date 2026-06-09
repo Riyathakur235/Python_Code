@@ -14,3 +14,14 @@ class Solution:
         # case 2 : does not exist
         else:
             return [-1, -1]
+        
+nums = [5, 7, 7, 8, 8, 10]
+target = 8
+
+# Create object
+obj = Solution()
+
+# Call function
+result = obj.searchRange(nums, target)
+
+print(result)        
