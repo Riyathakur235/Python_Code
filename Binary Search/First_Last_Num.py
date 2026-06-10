@@ -1,7 +1,6 @@
 import bisect
 from typing import List
 
-
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
         # we can either use binary search -> two times -> first to find the first pos and then the last pos
