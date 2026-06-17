@@ -24,3 +24,12 @@ class Solution:
             else:
                 break
         return k
+    
+arr = [2, 3, 4, 7, 11]
+k = 5
+
+obj = Solution()
+
+result = obj.findKthPositive(arr, k)
+
+print(result)    
