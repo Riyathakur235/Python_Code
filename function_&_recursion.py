@@ -59,21 +59,21 @@
 
 
 # remove word and strip at the same time
-# def rem(l,word):
-#     n=[]
-#     for item in l:
-#         # l.remove(word)
-#         # return l
-#         if not(item == word):
-#             n.append(item.strip(word))
-#     return n        
-# l=["Hariram","Rohan","Shubham","an"]
-# print(rem(l,"an"))
+def rem(l,word):
+    n=[]
+    for item in l:
+        # l.remove(word)
+        # return l
+        if not(item == word):
+            n.append(item.strip(word))
+    return n        
+l=["Hariram","Rohan","Shubham","an"]
+print(rem(l,"an"))
 
 
 # Multiplication table
-def table(n):
-    for i in range(1,11):
-        print(f"{n} x {i} = {n*i}")
+# def table(n):
+#     for i in range(1,11):
+#         print(f"{n} x {i} = {n*i}")
         
-table(8)        
+# table(8)        
