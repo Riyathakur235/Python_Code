@@ -28,3 +28,10 @@ class Solution:
             else:
                 low = mid + 1
         return ans
+    
+nums = [7, 2, 5, 10, 8]
+k = 2
+
+obj = Solution()
+
+print(obj.splitArray(nums, k))    
