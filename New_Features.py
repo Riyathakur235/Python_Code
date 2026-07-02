@@ -141,16 +141,16 @@ myList =[1,2,6,7,8,6]
 # print(table)
 
 # write a program to display a/b where a and b are integers. if b=0,display infinte by handling the 'ZeroDivisionError"
-# try:
-#     a=int(input("Enter a number: "))
-#     b=int(input("Enter second number: "))
-#     print(a/b)
-# except ZeroDivisionError as v:
-#     print("Infinite")
+try:
+    a=int(input("Enter a number: "))
+    b=int(input("Enter second number: "))
+    print(a/b)
+except ZeroDivisionError as v:
+    print("Infinite")
 
 # Stores the multiplication table generated in problem 3 in a file named Tables.txt.
-n=int(input("Enter a number : "))
-table =[n*i for i in range(1,11)]
-with open("Tables.txt","a")as f:
-    f.write(f"Table of {n} : {str(table)} \n")
+# n=int(input("Enter a number : "))
+# table =[n*i for i in range(1,11)]
+# with open("Tables.txt","a")as f:
+#     f.write(f"Table of {n} : {str(table)} \n")
         
