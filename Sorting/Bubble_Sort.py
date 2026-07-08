@@ -6,3 +6,9 @@ class Solution:
                 if arr[j] > arr[j+1]:
                     arr[j], arr[j+1] = arr[j+1], arr[j]
             self.bubbleSort(arr, n-1)
+            
+arr = [5, 1, 4, 2, 8]
+obj = Solution()
+obj.bubbleSort(arr, len(arr))
+print(arr)            
+            
