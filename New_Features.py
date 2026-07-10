@@ -111,10 +111,10 @@ l =[3,45,67,764]
 #     print(f"The item number at index {index} is {item}")
 
 # List Comprehension
-myList =[1,2,6,7,8,6]
-squaredList =[]
-for item in myList:
-    squaredList.append(item*item)
+# myList =[1,2,6,7,8,6]
+# squaredList =[]
+# for item in myList:
+#     squaredList.append(item*item)
 
 # This can be simplified using list comprehension
 # squaredList = [item*item for item in myList]
@@ -141,12 +141,12 @@ for item in myList:
 # print(table)
 
 # write a program to display a/b where a and b are integers. if b=0,display infinte by handling the 'ZeroDivisionError"
-# try:
-#     a=int(input("Enter a number: "))
-#     b=int(input("Enter second number: "))
-#     print(a/b)
-# except ZeroDivisionError as v:
-#     print("Infinite")
+try:
+    a=int(input("Enter a number: "))
+    b=int(input("Enter second number: "))
+    print(a/b)
+except ZeroDivisionError as v:
+    print("Infinite")
 
 # Stores the multiplication table generated in problem 3 in a file named Tables.txt.
 # n=int(input("Enter a number : "))
