@@ -9,3 +9,8 @@ class Solution:
                     mini = j
             arr[i], arr[mini] = arr[mini], arr[i]
         return arr
+    
+arr = [64, 25, 12, 22, 11]
+obj = Solution()
+result = obj.selectionSort(arr, len(arr))
+print(result)    
