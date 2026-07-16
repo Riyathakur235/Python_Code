@@ -28,20 +28,20 @@
 # print(s,type(s))
 
 # sets union and intersection
-# s1={1,2,3,4}
-# s2={3,4,5,6}
-# print(s1.union(s2))
-# print(s1.intersection(s2))
+s1={1,2,3,4}
+s2={3,4,5,6}
+print(s1.union(s2))
+print(s1.intersection(s2))
 
 # Practice Question
-words = {
-    "madad" :"help" ,
-    "kursi" :"chair" ,
-    "billi" :"cat",
-}
+# words = {
+#     "madad" :"help" ,
+#     "kursi" :"chair" ,
+#     "billi" :"cat",
+# }
 
-word = input("enter the word you want meaning of: ")
-print(words[word])
+# word = input("enter the word you want meaning of: ")
+# print(words[word])
 
 
 # s=set()
