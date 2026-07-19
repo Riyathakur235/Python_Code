@@ -15,3 +15,8 @@ class Solution:
             if temp not in mp:
                 mp[temp] = i
         return ans
+    
+arr = [15, -2, 2, -8, 1, 7, 10, 23]
+n = len(arr)
+obj = Solution()
+print(obj.maxLen(n, arr))    
