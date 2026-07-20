@@ -25,21 +25,21 @@
 
 
 
-fruits=[]
-f1=input("Enter the fruits")
-fruits.append(f1)
-f2=input("Enter the fruits")
-fruits.append(f2)
-f3=input("Enter the fruits")
-fruits.append(f3)
-f4=input("Enter the fruits")
-fruits.append(f4)
-print(fruits)
+# fruits=[]
+# f1=input("Enter the fruits")
+# fruits.append(f1)
+# f2=input("Enter the fruits")
+# fruits.append(f2)
+# f3=input("Enter the fruits")
+# fruits.append(f3)
+# f4=input("Enter the fruits")
+# fruits.append(f4)
+# print(fruits)
 
 
 # sum of list
-# l=[34,6,788,76]
-# print(sum(l))
+l=[34,6,788,76]
+print(sum(l))
 
 # a=(7,0,8,0,0,9)
 # print(a.count(0))
