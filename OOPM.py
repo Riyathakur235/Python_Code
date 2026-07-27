@@ -72,38 +72,38 @@
 
 
 # Adding a static method
-class Calculator:
-    def __init__(self,n):
-        self.n=n
-    def square(self):
-        return self.n *self.n
-    def cube(self):
-        return self.n *self.n *self.n
-    def Squareroot(self):
-        return self.n ** 0.5
-    @staticmethod
-    def hello():
-        print("Hello there!")
+# class Calculator:
+#     def __init__(self,n):
+#         self.n=n
+#     def square(self):
+#         return self.n *self.n
+#     def cube(self):
+#         return self.n *self.n *self.n
+#     def Squareroot(self):
+#         return self.n ** 0.5
+#     @staticmethod
+#     def hello():
+#         print("Hello there!")
 
-a=Calculator(4)   
-print(a.square())         
-print(a.cube())         
-print(a.Squareroot())
-a.hello()
+# a=Calculator(4)   
+# print(a.square())         
+# print(a.cube())         
+# print(a.Squareroot())
+# a.hello()
 
 
-# from random import randint, random
-# class Train:
-#     def __init__(self,trainNo):
-#         self.trainNo =trainNo
-#     def book(self,fro,to):
-#         print(f"Ticket is booked in train no: {self.trainNo} from{fro} to{to}")
-#     def getStatus(self):
-#         print(f"Train no: {self.trainNo} is running on time")
-#     def getFare(self,fro,to):
-#         print(f"Ticket is fare in train no: {self.trainNo} from{fro} to {to} is {randint(189,555)}")
+from random import randint, random
+class Train:
+    def __init__(self,trainNo):
+        self.trainNo =trainNo
+    def book(self,fro,to):
+        print(f"Ticket is booked in train no: {self.trainNo} from{fro} to{to}")
+    def getStatus(self):
+        print(f"Train no: {self.trainNo} is running on time")
+    def getFare(self,fro,to):
+        print(f"Ticket is fare in train no: {self.trainNo} from{fro} to {to} is {randint(189,555)}")
 
-# t=Train(12398)
-# t.book("Rampur","Delhi")
-# t.getStatus()
-# t.getFare("Rampur","Delhi")        
+t=Train(12398)
+t.book("Rampur","Delhi")
+t.getStatus()
+t.getFare("Rampur","Delhi")        
