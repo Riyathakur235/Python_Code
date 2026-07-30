@@ -21,3 +21,8 @@ class Solution:
         self.mergeSort(arr, l, mid)
         self.mergeSort(arr, mid + 1, r)
         self.merge(arr, l, mid, r)
+        
+arr = [38, 27, 43, 3, 9, 82, 10]
+obj = Solution()
+obj.mergeSort(arr, 0, len(arr) - 1)
+print(arr)        
