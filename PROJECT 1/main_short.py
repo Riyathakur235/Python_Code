@@ -1,9 +1,8 @@
 ''' 1 for snake
 -1 for water
-0 gor gun
+0 for gun
 '''
 from random import random
-
 
 computer =  random.choice([-1,0,1])
 youstr =input("Enter your choice : ")
@@ -15,6 +14,7 @@ print(f"You chose {reverseDict[you]}\nComputer chose {reverseDict[computer]}")
 
 if(computer ==you):
     print("It's a draw!")
+
 
 # the below logic is written on the basis of value of  computer-you
 else:

@@ -1,9 +1,8 @@
 ''' 1 for snake
 -1 for water
-0 gor gun
+0 for gun
 '''
 from random import random
-
 
 computer =  random.choice([-1,0,1])
 youstr =input("Enter your choice : ")
