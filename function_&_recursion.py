@@ -57,7 +57,6 @@
 #     pattern(n-1)
 # pattern(3)   
 
-
 # remove word and strip at the same time
 def rem(l,word):
     n=[]
