@@ -17,7 +17,6 @@
 #       print(f"The name is {self.name} and he is good with {self.language} language")  
 # a=Empolyee()
 # b=Programmer()
-
 # print(a.company,b.company)    
 
 # Multiple Inheritance

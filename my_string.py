@@ -2,7 +2,6 @@
 # nameshort=name[0:2]
 # print(nameshort)
 
-
 # name=input("Enter your name:")
 # print(f"Good Afternoon {name} ")
 
