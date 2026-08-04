@@ -9,7 +9,6 @@
 # else:
 #     print("You are failed",total_percentage)    
 
-
 # p1 ="Make  a lot of money"
 # p2 = "buy now"
 # p3 = "subscribe this"
@@ -20,7 +19,6 @@
 #     print("This comment is a spam")
 # else:
 #     print("This comment is not a spam")    
-
 
 # username =input("Enter the username: ")
 # if(len(username)<10):
