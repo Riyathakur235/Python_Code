@@ -43,7 +43,6 @@ print(s1.intersection(s2))
 # word = input("enter the word you want meaning of: ")
 # print(words[word])
 
-
 s=set()
 n= input("Enter number : ")
 s.add(int(n))
@@ -55,7 +54,6 @@ n= input("Enter number : ")
 s.add(int(n))
 n= input("Enter number : ")
 s.add(int(n))
-
 # print(s)
 
 # s=set()
@@ -76,6 +74,7 @@ s.add(int(n))
 # lang = input("Enter language name: ")
 # d.update({name: lang})
 # print(d)
+
 
 # s={8,7,12,"Harry",[1,2]}           sets cannot define list as it is mutable.
 
