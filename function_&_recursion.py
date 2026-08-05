@@ -49,7 +49,6 @@
 
 # print(sum(4))
 
-
 # def pattern(n):
 #     if(n==0):
 #      return
