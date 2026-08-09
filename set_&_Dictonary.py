@@ -20,12 +20,14 @@
 # print(marks.get("harry"))     prints none
 # print(marks["harry"])        gives error if key is not present
 
+
 # Sets
 # s={1,2,5,5,8}         #repetative values are not allowed in set, it will only take unique values
 # e=set()     don't use s={} as it will create an empty dictonary, this create an empty set
 
 # s.add(566)
 # print(s,type(s))
+
 
 # sets union and intersection
 s1={1,2,3,4}
