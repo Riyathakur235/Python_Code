@@ -57,6 +57,7 @@ list =[1,2,3,4,5]
 # f=list(filter(divisible5,a))
 # print(f)
 
+
 # write a program to find the maximum of the nummbers in a list using the reduce function.
 # from functools import reduce
 # def maximum (a,b):
