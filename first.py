@@ -29,6 +29,7 @@
 # # get list of files and directories
 # contents = os.listdir(path)
 
+
 # # print each item
 # print("Directory contents:")
 # for item in contents:
