@@ -48,6 +48,7 @@ list =[1,2,3,4,5]
 # s= "\n".join(table)
 # print(s)
 
+
 # write a program to filter a list of numbers which are divisible by 5.
 # def divisible5(n):
 #     if(n%5==0):
