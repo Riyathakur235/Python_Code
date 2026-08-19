@@ -26,5 +26,5 @@
 # merging Dictionaries
 dict1 = {"a": 1, "b": 2}
 dict2 = {"c": 3, "d": 4}
-merged = {**dict1, **dict2}
+merged = {**dict1, **dict2}               # ** are called dictionary unpacking operrator. It use to unpack the key-value pairs from the dictionaries and create a new dictionary with all the key-value pairs combined.
 print(merged) 
