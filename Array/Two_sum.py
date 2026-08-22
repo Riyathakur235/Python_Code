@@ -5,3 +5,5 @@ def two_sum(nums: list[int],target: int) -> list[int]:
         if complement in seen:
             return[seen[complement],index]
         seen[num ] = index       # stroe the current number and its index in the dictionary
+        
+    return[]    #Return empty list if no solution is found
