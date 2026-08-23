@@ -4,6 +4,7 @@ def two_sum(nums: list[int],target: int) -> list[int]:
         complement = target -num
         if complement in seen:
             return[seen[complement],index]
-        seen[num ] = index       # stroe the current number and its index in the dictionary
+        # stroe the current number and its index in the dictionary
+        seen[num ] = index      
         
     return[]    #Return empty list if no solution is found
