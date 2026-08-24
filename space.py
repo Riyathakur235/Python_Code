@@ -15,7 +15,6 @@
 # for i in range(n - 1, 0, -1):
 #     print(" " * (n - i) + "* " * i)
 
-
 # nums = [1,2,3,4,5]
 # for num in nums:
 #     if num == 3:
