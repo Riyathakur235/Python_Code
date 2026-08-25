@@ -27,6 +27,7 @@
 #     if(name.startswith("s")):
 #         print(f"Hello {name}")
 
+
 # prime no.
 # n=int(input("enter your number: "))
 # for i in range(2,n):
