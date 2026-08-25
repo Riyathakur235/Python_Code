@@ -7,6 +7,7 @@
 #         else:
 #             print(" ", end=" ")    
 #     print()    
+
     
 # star shape pattern
 # n = 5
