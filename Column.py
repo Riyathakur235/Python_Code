@@ -1,0 +1,27 @@
+# Guess The Dataset column 
+import random
+
+columns = ["customerid", "orderdate", "totalamount", "status"]
+word = random.choice(columns)
+guessed = set()
+attempts =8
+
+while attempts > 0:
+    display = " ".join(c if c in guessed else "_" for c in word)
+    print(f"Word: {display}   \nAttempts left: {attempts}")
+    guess = input("Guess a letter: ").lower()
+    
+    if guess in guessed:
+        print("You already guessed that letter.")
+        continue
+    guessed.add(guess)
+     
+    if guess in word:
+        attempts -=1
+        print("Not in the word.")
+        
+    if all(c in guessed for c in word ):
+        print(f"\nYou win! The word was '(word)'.")
+        
+    else:
+        print(f"\nOut of attempts! The word was '(word)'.")         
