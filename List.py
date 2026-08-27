@@ -24,7 +24,6 @@
 # print(i)
 
 
-
 # fruits=[]
 # f1=input("Enter the fruits")
 # fruits.append(f1)
@@ -40,6 +39,7 @@
 # sum of list
 l=[34,6,788,76]
 print(sum(l))
+
 
 # a=(7,0,8,0,0,9)
 # print(a.count(0))
