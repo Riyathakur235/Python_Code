@@ -1,5 +1,4 @@
 # Dice Roll Simulator with Scoring
-
 import random
 
 def roll_dice(sides=6):
@@ -7,7 +6,6 @@ def roll_dice(sides=6):
 
 rounds = int(input("How many rounds? "))
 target = int(input("Target score to reach: "))
-
 total = 0
 history = []
 round_num = 0
