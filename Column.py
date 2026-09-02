@@ -23,4 +23,5 @@ while attempts > 0:
         print(f"\nYou win! The word was '{word}'.")
         
     else:
-        print(f"\nOut of attempts! The word was '(word)'.")         
+        print(f"\nOut of attempts! The word was '(word)'.")   
+              
