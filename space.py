@@ -24,7 +24,16 @@
 #         print("Loop completed")
 
 # merging Dictionaries
-dict1 = {"a": 1, "b": 2}
-dict2 = {"c": 3, "d": 4}
-merged = {**dict1, **dict2}               # ** are called dictionary unpacking operrator. It use to unpack the key-value pairs from the dictionaries and create a new dictionary with all the key-value pairs combined.
-print(merged) 
+# dict1 = {"a": 1, "b": 2}
+# dict2 = {"c": 3, "d": 4}
+# merged = {**dict1, **dict2}               # ** are called dictionary unpacking operrator. It use to unpack the key-value pairs from the dictionaries and create a new dictionary with all the key-value pairs combined.
+# print(merged) 
+
+# login 
+username = input("Enter your username: ")
+password = input("Enter your password: ")
+
+if username == "admin@domain.com" and password == "pass1234":
+    print("Login successful!")
+else:
+    print("Invalid username or password.")
