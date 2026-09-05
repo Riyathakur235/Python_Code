@@ -10,3 +10,5 @@ def find_pairs(arr,target):
              pairs.append((arr[i] , arr[j]))
              
     return pairs         
+
+print(find_pairs(arr,target))
