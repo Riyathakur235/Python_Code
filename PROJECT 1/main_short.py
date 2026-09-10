@@ -16,7 +16,7 @@ if(computer ==you):
     print("It's a draw!")
 
 
-# the below logic is written on the basis of value of  computer-you
+# the below logic is written on the basis of value of computer-you
 else:
     if((computer -you) ==-1 or(computer - you)==2):
         print("You lose!")

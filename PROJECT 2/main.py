@@ -2,7 +2,6 @@
 # we are going to write a program that genrate a random and asks the user to guess it.
 
 import random
-
 n = random.randint(0,100)
 a=-1
 guesses = 1
