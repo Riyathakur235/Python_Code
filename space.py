@@ -39,3 +39,14 @@
 #     print("Invalid username or password.")
 
 # Duplicate charaxters in a string
+from unittest import result
+
+
+def remove_duplicates(input_string):
+    result = ""
+    for char in input_string:
+        if char not in result:
+            result += char
+    return result
+
+print(remove_duplicates("programming"))
