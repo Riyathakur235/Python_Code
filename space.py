@@ -30,10 +30,12 @@
 # print(merged) 
 
 # login 
-username = input("Enter your username: ")
-password = input("Enter your password: ")
+# username = input("Enter your username: ")
+# password = input("Enter your password: ")
 
-if username == "admin@domain.com" and password == "pass1234":
-    print("Login successful!")
-else:
-    print("Invalid username or password.")
+# if username == "admin@domain.com" and password == "pass1234":
+#     print("Login successful!")
+# else:
+#     print("Invalid username or password.")
+
+# Duplicate charaxters in a string
