@@ -1,5 +1,4 @@
 # Student Management System
-
 students =[]
 def add_student():
     name = input("Enter student name: ")
