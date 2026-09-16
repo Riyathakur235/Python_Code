@@ -23,4 +23,5 @@ if total >= target:
 else:
     print(f"\nOut of rounds! Final score: {total}")
 
-print(f"Rolls: {history}")            
+print(f"Rolls: {history}")  
+          
