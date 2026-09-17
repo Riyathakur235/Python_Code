@@ -30,4 +30,5 @@ matrix = [
 target = 3
 obj = Solution()
 result = obj.searchMatrix(matrix, target)
-print(result)    
+print(result)  
+  

@@ -17,4 +17,5 @@ class Solution:
     
 obj = Solution()
 
-print(obj.NthRoot(3, 27))    
+print(obj.NthRoot(3, 27))  
+  
