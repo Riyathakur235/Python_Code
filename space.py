@@ -60,4 +60,9 @@ for key in dict1:
     result[key] = dict1[key]
     
 for key in dict2:
-    if key in result:    
+    if key in result: 
+        result[key] = result[key] +dict2[key]
+    else:
+        result[key] = dict2[key]
+        
+print(result)           
