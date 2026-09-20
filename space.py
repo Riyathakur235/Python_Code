@@ -39,13 +39,25 @@
 #     print("Invalid username or password.")
 
 # Duplicate characters in a string
-from unittest import result
+# from unittest import result
 
-def remove_duplicates(input_string):
-    result = ""
-    for char in input_string:
-        if char not in result:
-            result += char
-    return result
+# def remove_duplicates(input_string):
+#     result = ""
+#     for char in input_string:
+#         if char not in result:
+#             result += char
+#     return result
 
-print(remove_duplicates("programming"))
+# print(remove_duplicates("programming"))
+
+
+# Merge two dictionaries and sum values for common keys.
+dict1 = {'a': 10, 'b': 20, 'c': 30}
+dict2 = {'b': 15, 'c': 25, 'd': 35}
+
+result = {}
+for key in dict1:
+    result[key] = dict1[key]
+    
+for key in dict2:
+    if key in result:    
