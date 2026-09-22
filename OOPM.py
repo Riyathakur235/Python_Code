@@ -7,6 +7,7 @@
 # print(Rahul.name,Rahul.language)    
 # here name is instance attribute and salary & language are class attributes as they directly belong to the class
 
+
 # Self method is used to refer to the current instance of the class and it is used to access variables that belongs to the class
 # class Employee:
 #     language="py"                   
