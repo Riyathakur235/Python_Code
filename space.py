@@ -66,5 +66,4 @@ for key in dict2:
     else:
         result[key] = dict2[key]
         
-print(result)      
-     
+print(result)         
