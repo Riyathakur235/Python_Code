@@ -21,6 +21,7 @@
 # print(line1,type(line1))
 # f.close()
 
+
 # print all lines one by one
 # f=open("file.txt")
 # line =f.readline()
