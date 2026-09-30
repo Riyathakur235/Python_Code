@@ -154,4 +154,3 @@ except ZeroDivisionError as v:
 # with open("Tables.txt","a")as f:
 #     f.write(f"Table of {n} : {str(table)} \n")
     
-        
