@@ -1,0 +1,31 @@
+application_id	company	role	date	status
+APP001	TCS	Data Analyst	01-08-2026	Applied
+APP002	Infosys	Data Analyst	02-08-2026	Interview
+APP003	Wipro	Business Analyst	03-08-2026	Applied
+APP004	Accenture	Data Analyst	04-08-2026	Interview
+APP005	Deloitte	Junior Data Analyst	05-08-2026	Offer
+APP006	Capgemini	Data Analyst	06-08-2026	Rejected
+APP007	Cognizant	Data Analyst	07-08-2026	Applied
+APP008	HCLTech	Business Analyst	08-08-2026	Interview
+APP009	IBM	Data Analyst	09-08-2026	Applied
+APP010	Tech Mahindra	Junior Data Analyst	10-08-2026	Rejected
+APP011	EY	Data Analyst	11-08-2026	Interview
+APP012	KPMG	Business Analyst	12-08-2026	Applied
+APP013	Amazon	Data Analyst	13-08-2026	Offer
+APP014	Flipkart	Data Analyst	14-08-2026	Applied
+APP015	Genpact	Junior Data Analyst	15-08-2026	Rejected
+APP016	Accenture	Business Analyst	16-08-2026	Interview
+APP017	TCS	Data Analyst	17-08-2026	Applied
+APP018	Infosys	Data Analyst	18-08-2026	Rejected
+APP019	Deloitte	Data Analyst	19-08-2026	Interview
+APP020	Cognizant	Business Analyst	20-08-2026	Offer
+APP021	Wipro	Data Analyst	21-08-2026	Applied
+APP022	IBM	Junior Data Analyst	22-08-2026	Rejected
+APP023	EY	Data Analyst	23-08-2026	Interview
+APP024	KPMG	Data Analyst	24-08-2026	Applied
+APP025	Amazon	Business Analyst	25-08-2026	Rejected
+APP026	HCLTech	Data Analyst	26-08-2026	Interview
+APP027	Capgemini	Data Analyst	27-08-2026	Applied
+APP028	Tech Mahindra	Junior Data Analyst	28-08-2026	Rejected
+APP029	Flipkart	Data Analyst	29-08-2026	Interview
+APP030	Genpact	Business Analyst	30-08-2026	Applied
