@@ -2,8 +2,7 @@
 # target = 7
 
 # def find_pairs(arr,target):
-#     pairs = []
-    
+#     pairs = []  
 #     for i in range(len(arr)):
 #      for j in range(i+1,len(arr)):
 #          if arr[i] +arr[j] == target:
