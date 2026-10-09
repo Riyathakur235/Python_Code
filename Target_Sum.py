@@ -23,4 +23,5 @@ for n in range(len(v), 1, -1):
             flip(v, m+1)
             flip(v, n)
             
-print(v)            
+print(v)
+            
