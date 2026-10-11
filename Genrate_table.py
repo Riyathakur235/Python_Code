@@ -43,7 +43,6 @@
 # check python word present in which line
 # with open("log.txt") as f:
 #   lines=  f.readlines()
-
 # lineno=1  
 # for line in lines:
 #   if("python" in line):
