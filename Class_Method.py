@@ -126,4 +126,5 @@ v3=Vector(7,8,9)
 print(v1+v2)
 print(v1*v2)  
 print(v1+v3)
-print(v1*v3)  
+print(v1*v3) 
+ 
