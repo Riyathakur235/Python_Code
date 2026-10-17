@@ -32,3 +32,4 @@ if save == "yes":
     file.write("Total Investment Value = " + str(total_investment))
     file.close()
     print("✅ Saved to portfolio.txt")
+    
