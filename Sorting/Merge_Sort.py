@@ -26,4 +26,5 @@ class Solution:
 arr = [38, 27, 43, 3, 9, 82, 10]
 obj = Solution()
 obj.mergeSort(arr, 0, len(arr) - 1)
-print(arr)        
+print(arr) 
+       

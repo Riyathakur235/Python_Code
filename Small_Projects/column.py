@@ -24,4 +24,5 @@ while attempts > 0:
         
     else:
         print(f"\nOut of attempts! The word was '(word)'.")   
+      
               
