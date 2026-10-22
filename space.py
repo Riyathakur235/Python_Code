@@ -67,3 +67,13 @@ for key in dict2:
         result[key] = dict2[key]
         
 print(result)         
+
+
+# Function with default parameter
+number = 10
+def fun(number = 0):
+    number += 90
+    return number
+
+number = 20
+print(number,fun(), fun(10))
