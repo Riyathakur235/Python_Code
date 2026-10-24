@@ -28,6 +28,7 @@
 # Spaghetti sort
 v= [5,2,7,1,8,3,6,4]
 r=[]
+
 while v:
     m =max(v)
     v.remove(m)
