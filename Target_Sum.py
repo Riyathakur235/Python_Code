@@ -20,8 +20,7 @@
 #     m = v.index(max(v[:n]))
 #     if m != n-1:
 #             flip(v, m+1)
-#             flip(v, n)
-            
+#             flip(v, n)        
 # print(v)
     
 
