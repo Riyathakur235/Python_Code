@@ -76,5 +76,4 @@ print(rem(l,"an"))
 #     for i in range(1,11):
 #         print(f"{n} x {i} = {n*i}")
         
-# table(8)  
-      
+# table(8)        
