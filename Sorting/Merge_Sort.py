@@ -1,4 +1,5 @@
 from typing import List
+
 class Solution:
     def merge(self, arr: List[int], l, m, r):
         l1, l2 = l, m + 1
@@ -27,4 +28,3 @@ arr = [38, 27, 43, 3, 9, 82, 10]
 obj = Solution()
 obj.mergeSort(arr, 0, len(arr) - 1)
 print(arr) 
-       
