@@ -13,7 +13,7 @@
 # print(a)
 
 # Map,Filter & Reduce
-list =[1,2,3,4,5]
+# list =[1,2,3,4,5]
 # square =lambda x: x*x
 # sqList = map(square,list)
 # print(list(sqList))
