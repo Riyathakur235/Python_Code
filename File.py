@@ -21,6 +21,7 @@
 # print(line1,type(line1))
 # f.close()
 
+
 # print all lines one by one
 # f=open("file.txt")
 # line =f.readline()
@@ -28,6 +29,7 @@
 #     print(line)
 #     line=f.readline()
 # f.close()    
+
 
 # in this we don't have to close the file as it will automatically close
 # with open("file.txt") as f:
