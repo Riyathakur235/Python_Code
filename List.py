@@ -35,7 +35,6 @@
 # fruits.append(f4)
 # print(fruits)
 
-
 # sum of list
 l=[34,6,788,76]
 print(sum(l))
