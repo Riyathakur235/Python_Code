@@ -1,0 +1,110 @@
+Order_ID	Order_Date	Product	Category	Quantity	Unit_Price	Sales	City	Payment_Method	Order_Status
+ORD0052	2025-01-03	Keyboard	Electronics	1	991	991	Kolkata	UPI	Delivered
+ORD0034	2025-01-04	Jeans	Fashion	1	1405	1405	Kolkata	Debit Card	Delivered
+ORD0181	2025-01-07	T-Shirt	Fashion	4	669	2676	Bhopal	Debit Card	Delivered
+ORD0130	2025-01-09	Backpack	Fashion	3	1476	4428	Pune	Net Banking	Returned
+ORD0051	2025-01-10	Sunscreen	Beauty	2	612	1224	Delhi	Cash on Delivery	Returned
+ORD0048	2025-01-10	Desk Lamp	Home	1	968	968	Hyderabad	UPI	Cancelled
+ORD0145	2025-01-11	Sneakers	Fashion	3	2469	7407	Hyderabad	Net Banking	Cancelled
+ORD0074	2025-01-13	Water Bottle	Home	2	423	846	Delhi	Debit Card	Cancelled
+ORD0037	2025-01-14	Face Wash	Beauty	1	254	254	Bhopal	Credit Card	Delivered
+ORD0063	2025-01-16	Sunscreen	Beauty	3	563	1689	Kolkata	Credit Card	Delivered
+ORD0078	2025-01-19	Face Wash	Beauty	2	256	512	Mumbai	Debit Card	Cancelled
+ORD0184	2025-01-19	Storage Box	Home	4	451	1804	Bhopal	UPI	Delivered
+ORD0183	2025-01-19	Headphones	Electronics	3	1545	4635	Delhi	Credit Card	Delivered
+ORD0008	2025-01-28	Moisturizer	Beauty	2	489	978	Pune	Cash on Delivery	Delivered
+ORD0177	2025-01-29	Desk Lamp	Home	4	815	3260	Hyderabad	Credit Card	Delivered
+ORD0084	2025-02-01	Jeans	Fashion	1	1211	1211	Kolkata	Debit Card	Delivered
+ORD0004	2025-02-03	Shampoo	Beauty	2	331	662	Bhopal	Net Banking	Delivered
+ORD0106	2025-02-04	USB Cable	Electronics	1	287	287	Bengaluru	Cash on Delivery	Delivered
+ORD0010	2025-02-05	T-Shirt	Fashion	4	631	2524	Bengaluru	Cash on Delivery	Returned
+ORD0065	2025-02-07	Shampoo	Beauty	4	378	1512	Mumbai	UPI	Delivered
+ORD0035	2025-02-09	Sneakers	Fashion	2	2618	5236	Mumbai	Credit Card	Delivered
+ORD0056	2025-02-11	T-Shirt	Fashion	2	595	1190	Hyderabad	Net Banking	Returned
+ORD0087	2025-02-13	Sunscreen	Beauty	2	651	1302	Kolkata	Cash on Delivery	Delivered
+ORD0081	2025-02-13	USB Cable	Electronics	4	276	1104	Hyderabad	UPI	Delivered
+ORD0047	2025-02-14	Keyboard	Electronics	4	1010	4040	Kolkata	Cash on Delivery	Cancelled
+ORD0049	2025-02-15	Face Wash	Beauty	2	274	548	Mumbai	Credit Card	Returned
+ORD0112	2025-02-16	Storage Box	Home	3	546	1638	Kolkata	Net Banking	Delivered
+ORD0075	2025-02-18	Storage Box	Home	4	516	2064	Hyderabad	UPI	Cancelled
+ORD0029	2025-02-22	Headphones	Electronics	3	1383	4149	Delhi	Debit Card	Cancelled
+ORD0040	2025-02-25	Headphones	Electronics	2	1676	3352	Kolkata	UPI	Cancelled
+ORD0007	2025-02-26	T-Shirt	Fashion	3	629	1887	Kolkata	Cash on Delivery	Delivered
+ORD0061	2025-03-05	Water Bottle	Home	1	363	363	Pune	Debit Card	Delivered
+ORD0046	2025-03-05	Desk Lamp	Home	1	811	811	Delhi	Credit Card	Delivered
+ORD0131	2025-03-06	Bedsheet	Home	2	1168	2336	Bengaluru	UPI	Delivered
+ORD0171	2025-03-10	Wireless Mouse	Electronics	4	589	2356	Delhi	UPI	Cancelled
+ORD0124	2025-03-12	Sunscreen	Beauty	1	569	569	Bengaluru	UPI	Delivered
+ORD0038	2025-03-15	Moisturizer	Beauty	4	483	1932	Kolkata	Cash on Delivery	Delivered
+ORD0082	2025-03-18	Bedsheet	Home	2	1283	2566	Hyderabad	Cash on Delivery	Delivered
+ORD0140	2025-03-23	T-Shirt	Fashion	4	550	2200	Bhopal	Debit Card	Returned
+ORD0109	2025-03-24	Jeans	Fashion	1	1332	1332	Bengaluru	Debit Card	Delivered
+ORD0172	2025-03-26	Desk Lamp	Home	1	921	921	Bhopal	Cash on Delivery	Returned
+ORD0017	2025-03-27	Sunscreen	Beauty	1	546	546	Chennai	Credit Card	Returned
+ORD0093	2025-03-29	Face Wash	Beauty	1	231	231	Chennai	Cash on Delivery	Returned
+ORD0199	2025-03-30	USB Cable	Electronics	3	275	825	Pune	Cash on Delivery	Delivered
+ORD0174	2025-04-01	Sunscreen	Beauty	4	572	2288	Kolkata	Debit Card	Delivered
+ORD0057	2025-04-01	Jeans	Fashion	3	1236	3708	Kolkata	Cash on Delivery	Returned
+ORD0054	2025-04-02	Keyboard	Electronics	1	1081	1081	Chennai	Debit Card	Delivered
+ORD0185	2025-04-03	Sunscreen	Beauty	4	619	2476	Delhi	Debit Card	Delivered
+ORD0104	2025-04-04	Jeans	Fashion	3	1369	4107	Hyderabad	Debit Card	Returned
+ORD0039	2025-04-04	Bedsheet	Home	4	1326	5304	Delhi	UPI	Delivered
+ORD0033	2025-04-08	Desk Lamp	Home	4	874	3496	Bhopal	Debit Card	Returned
+ORD0166	2025-04-11	Face Wash	Beauty	1	251	251	Pune	UPI	Delivered
+ORD0133	2025-04-12	Water Bottle	Home	2	420	840	Bhopal	Cash on Delivery	Cancelled
+ORD0064	2025-04-14	Keyboard	Electronics	3	990	2970	Mumbai	UPI	Delivered
+ORD0091	2025-04-14	USB Cable	Electronics	3	324	972	Mumbai	UPI	Cancelled
+ORD0089	2025-04-18	Storage Box	Home	2	499	998	Bengaluru	Debit Card	Delivered
+ORD0176	2025-04-19	Sneakers	Fashion	4	2579	10316	Delhi	Debit Card	Delivered
+ORD0138	2025-04-19	Bedsheet	Home	2	1111	2222	Mumbai	Debit Card	Cancelled
+ORD0198	2025-04-23	Backpack	Fashion	1	1496	1496	Hyderabad	UPI	Delivered
+ORD0045	2025-04-24	Wireless Mouse	Electronics	2	696	1392	Bengaluru	Net Banking	Delivered
+ORD0059	2025-04-24	USB Cable	Electronics	2	278	556	Kolkata	Net Banking	Delivered
+ORD0050	2025-04-25	T-Shirt	Fashion	2	626	1252	Kolkata	Debit Card	Delivered
+ORD0163	2025-04-25	Sneakers	Fashion	4	2277	9108	Chennai	UPI	Cancelled
+ORD0170	2025-04-27	Water Bottle	Home	1	363	363	Delhi	UPI	Returned
+ORD0036	2025-04-28	Bedsheet	Home	3	1281	3843	Mumbai	Cash on Delivery	Returned
+ORD0122	2025-04-30	Keyboard	Electronics	2	985	1970	Mumbai	Net Banking	Cancelled
+ORD0115	2025-05-02	Headphones	Electronics	3	1406	4218	Hyderabad	Credit Card	Delivered
+ORD0070	2025-05-04	T-Shirt	Fashion	2	569	1138	Bengaluru	Debit Card	Delivered
+ORD0153	2025-05-06	Shampoo	Beauty	4	346	1384	Kolkata	Net Banking	Returned
+ORD0154	2025-05-07	Shampoo	Beauty	3	335	1005	Kolkata	Credit Card	Delivered
+ORD0127	2025-05-14	Water Bottle	Home	3	406	1218	Kolkata	Credit Card	Returned
+ORD0044	2025-05-15	Sunscreen	Beauty	1	562	562	Bhopal	Cash on Delivery	Returned
+ORD0003	2025-05-16	Moisturizer	Beauty	3	550	1650	Chennai	Cash on Delivery	Delivered
+ORD0071	2025-05-19	Desk Lamp	Home	2	944	1888	Delhi	Credit Card	Cancelled
+ORD0196	2025-05-21	Jeans	Fashion	3	1335	4005	Pune	UPI	Cancelled
+ORD0119	2025-05-22	Keyboard	Electronics	4	1039	4156	Bengaluru	UPI	Cancelled
+ORD0011	2025-05-22	Backpack	Fashion	4	1540	6160	Delhi	Cash on Delivery	Cancelled
+ORD0126	2025-05-29	Sunscreen	Beauty	3	624	1872	Hyderabad	Cash on Delivery	Cancelled
+ORD0182	2025-06-01	Keyboard	Electronics	4	1092	4368	Bhopal	UPI	Cancelled
+ORD0165	2025-06-02	Jeans	Fashion	1	1169	1169	Bengaluru	UPI	Delivered
+ORD0187	2025-06-03	Storage Box	Home	1	505	505	Kolkata	UPI	Delivered
+ORD0132	2025-06-03	Keyboard	Electronics	4	997	3988	Bengaluru	UPI	Delivered
+ORD0118	2025-06-04	Face Wash	Beauty	4	266	1064	Bengaluru	Cash on Delivery	Cancelled
+ORD0160	2025-06-05	Wireless Mouse	Electronics	3	599	1797	Hyderabad	Credit Card	Returned
+ORD0027	2025-06-07	Sneakers	Fashion	3	2593	7779	Delhi	Debit Card	Delivered
+ORD0111	2025-06-07	Sneakers	Fashion	1	2593	2593	Bhopal	Credit Card	Returned
+ORD0161	2025-06-08	Shampoo	Beauty	4	316	1264	Kolkata	Net Banking	Cancelled
+ORD0001	2025-06-10	USB Cable	Electronics	3	325	975	Mumbai	Cash on Delivery	Delivered
+ORD0144	2025-06-11	Wireless Mouse	Electronics	3	707	2121	Mumbai	Net Banking	Delivered
+ORD0032	2025-06-11	Headphones	Electronics	2	1510	3020	Kolkata	UPI	Delivered
+ORD0030	2025-06-13	Headphones	Electronics	4	1540	6160	Bengaluru	Cash on Delivery	Delivered
+ORD0164	2025-06-13	Backpack	Fashion	1	1684	1684	Delhi	Net Banking	Delivered
+ORD0194	2025-06-16	Wireless Mouse	Electronics	1	691	691	Mumbai	Credit Card	Returned
+ORD0060	2025-06-16	Wireless Mouse	Electronics	2	606	1212	Mumbai	Debit Card	Delivered
+ORD0026	2025-06-19	Backpack	Fashion	3	1501	4503	Chennai	UPI	Cancelled
+ORD0197	2025-06-20	Storage Box	Home	3	470	1410	Bengaluru	Credit Card	Delivered
+ORD0123	2025-06-21	Headphones	Electronics	2	1398	2796	Bengaluru	UPI	Delivered
+ORD0009	2025-06-23	T-Shirt	Fashion	3	569	1707	Bhopal	Cash on Delivery	Returned
+ORD0058	2025-06-23	Sunscreen	Beauty	1	547	547	Bhopal	Credit Card	Delivered
+ORD0125	2025-06-30	Shampoo	Beauty	3	320	960	Bengaluru	Credit Card	Returned
+ORD0018	2025-07-04	Jeans	Fashion	3	1328	3984	Chennai	Net Banking	Cancelled
+ORD0105	2025-07-05	Wireless Mouse	Electronics	2	642	1284	Kolkata	Debit Card	Delivered
+ORD0100	2025-07-05	Bedsheet	Home	4	1240	4960	Mumbai	UPI	Cancelled
+ORD0080	2025-07-08	Bedsheet	Home	4	1289	5156	Pune	Credit Card	Delivered
+ORD0146	2025-07-11	Desk Lamp	Home	1	977	977	Bengaluru	Cash on Delivery	Returned
+ORD0192	2025-07-14	Water Bottle	Home	3	423	1269	Chennai	Net Banking	Delivered
+ORD0088	2025-07-18	Headphones	Electronics	3	1575	4725	Mumbai	UPI	Delivered
+ORD0090	2025-07-18	Sneakers	Fashion	4	2678	10712	Mumbai	Credit Card	Returned
+ORD0098	2025-07-20	Keyboard	Electronics	3	1062	3186	Hyderabad	UPI	Returned
