@@ -14,6 +14,7 @@
 #     salary=500000
 #     def getInfo(self):
 #         print(f"The language is {self.language} and the salary is {self.salary}")
+
     
 # Rahul =Employee()  
 # Rahul.getInfo()
@@ -24,6 +25,7 @@
 # class Employee:
 #     language="py"                     
 #     salary=500000
+
     
 #     def __init__(self,name ,salary):                  # dunder method which is automatically called
 #         self.name=name
