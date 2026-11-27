@@ -31,5 +31,4 @@ while v:
     m =max(v)
     v.remove(m)
     r.append(m)
-
 print(r)
